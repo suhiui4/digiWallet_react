@@ -1,4 +1,7 @@
 ## digiBank
+<img width="1440" alt="sidebar-expand" src="https://github.com/suhiui4/digiWallet_react/assets/94002484/0ddcc1f7-2e12-4c76-9579-2ae022c4a85a">
+
+<img width="1440" alt="sidebar-collapse" src="https://github.com/suhiui4/digiWallet_react/assets/94002484/015113a3-5904-402b-9a0b-b775fa1f1045">
 
 
 ## Description
