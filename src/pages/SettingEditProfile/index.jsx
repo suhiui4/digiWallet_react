@@ -54,7 +54,6 @@ export default function SettingEditProfilePage() {
                     </Button>
                   </div>
                 </div>
-                <form>
                 <div className="flex flex-col items-end justify-start w-[83%] md:w-full">
                   <div className="flex flex-row md:flex-col justify-start w-full gap-[29px] md:gap-5">
                 
@@ -162,7 +161,6 @@ export default function SettingEditProfilePage() {
                     Save
                   </Button>
                 </div>
-                </form>
               </div>
             </div>
           </div>
